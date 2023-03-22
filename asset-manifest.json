@@ -1,15 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.e6c13ad2.css",
-    "main.js": "/static/js/main.76ac5f3d.js",
+    "main.css": "/static/css/main.3fae4c99.css",
+    "main.js": "/static/js/main.d8574c3f.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
+    "static/media/Zostel.png": "/static/media/Zostel.19bf82c646f8b2955263.png",
+    "static/media/profile_pic.jpg": "/static/media/profile_pic.c1229b2ca7e41cc0a103.jpg",
+    "static/media/Overstock.png": "/static/media/Overstock.9bc306dcea93acb7a23c.png",
+    "static/media/Unsplash.png": "/static/media/Unsplash.b9e3c5fe7696c694853b.png",
+    "static/media/about_pic.png": "/static/media/about_pic.e559f3a40a2477147e54.png",
     "index.html": "/index.html",
-    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
-    "main.76ac5f3d.js.map": "/static/js/main.76ac5f3d.js.map",
+    "main.3fae4c99.css.map": "/static/css/main.3fae4c99.css.map",
+    "main.d8574c3f.js.map": "/static/js/main.d8574c3f.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.76ac5f3d.js"
+    "static/css/main.3fae4c99.css",
+    "static/js/main.d8574c3f.js"
   ]
 }

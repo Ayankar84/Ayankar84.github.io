@@ -55,15 +55,15 @@ section {
     font-weight: 600;
 }
 
-.navbar a {
+#navbar a {
     font-size: 1.7rem;
     color: var(--text-color);
     margin-left: 4rem;
     transition: 0.3s;
 }
 
-.navbar a:hover,
-.navbar a.active {
+#navbar a:hover,
+#navbar a.active {
     color: var(--main-color);
 }
 
@@ -157,6 +157,7 @@ span {
     font-size: 1.6rem;
     font-weight: 600;
     transition: 0.3s ease-in-out;
+    color: #000;
 }
 
 .btn:hover {
@@ -393,7 +394,7 @@ span {
         display: block;
     }
 
-    .navbar {
+    #navbar {
         position: absolute;
         top: 100%;
         left: 0;
@@ -406,11 +407,11 @@ span {
         text-align: center;
     }
 
-    .navbar.active {
+    #navbar.active {
         display: block;
     }
 
-    .navbar a {
+    #navbar a {
         display: block;
         font-size: 2rem;
         margin: 3rem 0;

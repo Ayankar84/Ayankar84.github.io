@@ -12,7 +12,8 @@ function Contact() {
                     <input type="text" placeholder="Email Subject" />
                 </div>
                 <textarea name="" id="" cols="30" rows="10" placeholder="Your Message"></textarea>
-                <input type="submit" class="btn" value="Send Message" />
+                {/* <input type="submit" class="btn" value="Send Message" /> */}
+                <a href="mailto:ayankar84@gmail.com" className="btn" >Send Mail</a>
             </form>
         </section>
     )

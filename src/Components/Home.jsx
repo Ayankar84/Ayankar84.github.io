@@ -19,7 +19,7 @@ const Home = () => {
                     <a href="https://github.com/Ayankar84" target="_blank"><box-icon type='logo' color="white" name='github' /></a>
                     <a href="https://www.linkedin.com/in/ayan-kar-43625421b/" target="_blank"><box-icon color="white" type='logo' name='linkedin' /></a>
                 </div>
-                <a href="./Ayan_Kar_Resume.pdf" download className="btn">Download CV</a>
+                <a href="https://drive.google.com/file/d/1h_my1s0tonPcTWbALPli142PqbnMNRmw/view?usp=share_link" target="_blank" className="btn">Download CV</a>
             </div>
             <div className="home-img">
                 <img src={pic} alt="ayan" />

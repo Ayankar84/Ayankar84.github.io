@@ -8,7 +8,8 @@ function ContextProvider({children}){
         about:false,
         skills:false,
         projects:false,
-        contact:false
+        contact:false,
+        menu:false
     })
 
     return (

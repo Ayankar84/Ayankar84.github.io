@@ -1,13 +1,31 @@
 import pic from "../images/profile_pic.jpg"
+import { useRef, useEffect } from "react"
+import Typed from "typed.js"
 import 'boxicons'
 
 const Home = () => {
+    const el = useRef(null);
+
+    useEffect(() => {
+        const typed = new Typed(el.current, {
+            strings: ["Full-stack Web Developer"],
+            typeSpeed: 100,
+            backSpeed: 100,
+            backDelay: 2000,
+            loop: true
+        })
+
+        return ()=>{
+            typed.destroy();
+        }
+    }, []);
+
     return (
         <section className="home" id="home">
             <div className="home-content">
                 <h3>Hello, It's Me</h3>
                 <h1>Ayan Kar</h1>
-                <h3>I'm a <span className="multiple-text">Full-stack Web Developer</span></h3>
+                <h3>I'm a <span ref={el} className="multiple-text"></span></h3>
                 <p>
                     Life is not a straight path, but a journey full of twists and turns. Embrace each moment as it comes,
                     for every experience is an opportunity to learn, grow and become a better version of yourself. Don't be

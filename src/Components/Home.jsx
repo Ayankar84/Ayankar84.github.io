@@ -1,4 +1,5 @@
-import React from "react";
+import pic from "../images/profile_pic.jpg"
+import 'boxicons'
 
 const Home = () => {
     return (
@@ -6,7 +7,7 @@ const Home = () => {
             <div className="home-content">
                 <h3>Hello, It's Me</h3>
                 <h1>Ayan Kar</h1>
-                <h3>I'm a <span className="multiple-text"></span></h3>
+                <h3>I'm a <span className="multiple-text">Full-stack Web Developer</span></h3>
                 <p>
                     Life is not a straight path, but a journey full of twists and turns. Embrace each moment as it comes,
                     for every experience is an opportunity to learn, grow and become a better version of yourself. Don't be
@@ -15,13 +16,13 @@ const Home = () => {
                     is a journey that happens only once, so make it worth remembering.
                 </p>
                 <div className="social-media">
-                    <a href="https://github.com/Ayankar84" target="_blank">g</a>
-                    <a href="https://www.linkedin.com/in/ayan-kar-43625421b/" target="_blank">l</a>
+                    <a href="https://github.com/Ayankar84" target="_blank"><box-icon type='logo' color="white" name='github' /></a>
+                    <a href="https://www.linkedin.com/in/ayan-kar-43625421b/" target="_blank"><box-icon color="white" type='logo' name='linkedin' /></a>
                 </div>
-                <a href="#" download="" className="btn">Download CV</a>
+                <a href="./Ayan_Kar_Resume.pdf" download className="btn">Download CV</a>
             </div>
             <div className="home-img">
-                <img src="" alt="aaa"/>
+                <img src={pic} alt="ayan" />
             </div>
         </section>
     )

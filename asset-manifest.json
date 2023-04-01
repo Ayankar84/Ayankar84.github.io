@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.4d65f51f.css",
-    "main.js": "/static/js/main.250192ca.js",
+    "main.js": "/static/js/main.a492c36d.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/Zostel.png": "/static/media/Zostel.19bf82c646f8b2955263.png",
     "static/media/profile_pic.jpg": "/static/media/profile_pic.c1229b2ca7e41cc0a103.jpg",
@@ -10,11 +10,11 @@
     "static/media/about_pic.png": "/static/media/about_pic.e559f3a40a2477147e54.png",
     "index.html": "/index.html",
     "main.4d65f51f.css.map": "/static/css/main.4d65f51f.css.map",
-    "main.250192ca.js.map": "/static/js/main.250192ca.js.map",
+    "main.a492c36d.js.map": "/static/js/main.a492c36d.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4d65f51f.css",
-    "static/js/main.250192ca.js"
+    "static/js/main.a492c36d.js"
   ]
 }

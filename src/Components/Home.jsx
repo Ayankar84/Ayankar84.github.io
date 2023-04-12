@@ -38,7 +38,7 @@ const Home = () => {
                     <a href="https://github.com/Ayankar84" target="_blank"><box-icon type='logo' color="white" name='github' /></a>
                     <a href="https://www.linkedin.com/in/ayan-kar-43625421b/" target="_blank"><box-icon color="white" type='logo' name='linkedin' /></a>
                 </div>
-                <a href={resume} download={resume} target="_blank" className="btn">Download CV</a>
+                <a href={resume} download="Ayan_Kar_Resume" target="_blank" className="btn">Download CV</a>
             </div>
             <div className="home-img">
                 <img src={pic} alt="ayan" />

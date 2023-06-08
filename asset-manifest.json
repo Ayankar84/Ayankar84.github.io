@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/static/css/main.1540fd89.css",
-    "main.js": "/static/js/main.df3d79d9.js",
+    "main.js": "/static/js/main.4513e749.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/Zostel.png": "/static/media/Zostel.19bf82c646f8b2955263.png",
     "static/media/profile_pic.jpg": "/static/media/profile_pic.c1229b2ca7e41cc0a103.jpg",
     "static/media/Amazon.png": "/static/media/Amazon.721e6b6ef5e96162b8d0.png",
     "static/media/Overstock.png": "/static/media/Overstock.9bc306dcea93acb7a23c.png",
     "static/media/Unsplash.png": "/static/media/Unsplash.b9e3c5fe7696c694853b.png",
-    "static/media/Ayan_Kar_Resume.pdf": "/static/media/Ayan_Kar_Resume.cdb303324de15382373d.pdf",
+    "static/media/Ayan_Kar_Resume.pdf": "/static/media/Ayan_Kar_Resume.62b816bd06070572e3a4.pdf",
     "static/media/about_pic.png": "/static/media/about_pic.e559f3a40a2477147e54.png",
     "index.html": "/index.html",
     "main.1540fd89.css.map": "/static/css/main.1540fd89.css.map",
-    "main.df3d79d9.js.map": "/static/js/main.df3d79d9.js.map",
+    "main.4513e749.js.map": "/static/js/main.4513e749.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1540fd89.css",
-    "static/js/main.df3d79d9.js"
+    "static/js/main.4513e749.js"
   ]
 }
